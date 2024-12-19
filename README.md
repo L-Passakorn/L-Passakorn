@@ -1,4 +1,5 @@
-## 👋 Hi there, I'm Passakorn Limseng!  
+## <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hand waving" width="40px"/> Hi there, I'm Passakorn Limseng!  
+
 **💻 Developer | 🎨 Designer | ✨ Idealist**  
 
 [![Visitor](https://komarev.com/ghpvc/?username=l-passakorn&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/l-passakorn)  [![GitHub followers](https://img.shields.io/github/followers/l-passakorn?style=social&label=Follow)](https://github.com/l-passakorn?tab=followers)  
