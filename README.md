@@ -32,7 +32,6 @@
 
 #### Backend & Cloud  
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/nodejs-icon-1024x1024-yntsrxq0.png" alt="nodejs" width="30" height="30"/></a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg" alt="nestjs" width="30" height="30"/></a>
   <a href="https://trpc.io" target="_blank" rel="noreferrer"><img src="https://svgmix.com/uploads/643ab4-trpc-icon.svg" alt="tRPC" width="30" height="30"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="30" height="30"/></a>
